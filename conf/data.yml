@@ -1,0 +1,38 @@
+Assessment(a1):
+  weight: 23.1
+  chest: 23.1
+  thigh: 23.1
+  upperarm: 23.1
+  waist: 23.1
+  hips: 23.1
+
+Assessment(a2):
+  weight: 24.1
+  chest: 24.1
+  thigh: 24.1
+  upperarm: 24.1
+  waist: 24.1
+  hips: 24.1
+
+Assessment(a3):
+  weight: 25.1
+  chest: 25.1
+  thigh: 25.1
+  upperarm: 25.1
+  waist: 25.1
+  hips: 25.1
+
+Member(m1):
+  name: homer simpson
+  email: homer@simpson.com
+  password: secret
+  assessmentlist:
+  - a1
+  - a2
+
+Member(m2):
+  name: marge simpson
+  email: marge@simpson.com
+  password: secret
+  assessmentlist:
+  - a3
